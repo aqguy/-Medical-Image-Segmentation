@@ -1,6 +1,6 @@
 # -Medical-Image-Segmentation
-Link to dataset：https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view
-dataset structure：
+Link to dataset：https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view  
+dataset structure：  
 Domian1: Drishti-GS dataset [101] including training[50] and testing[51]  
 Domain2: RIM-ONE_r3 dataset [159] including training and[99] testing[60]  
 Domain3: REFUGE training [400] MICCAI 2018 workshop including training and[320] testing[80]  
